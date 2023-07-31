@@ -8,7 +8,7 @@
 
 💡 &nbsp;I enjoy learning about cutting-edge technology and developing software to benefit the world.\
 🎓 &nbsp;I'm currently studying Electrical and Computer Engineering at Aristotle University of Thessaloniki.\
-🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence and more.\
+🌱 &nbsp;I'm on track for learning more about Web Development, Machine Learning, Artificial Intelligence and more.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and play Sports.\
 ✉️ &nbsp;You can reach me with an email at stavroskiig.bussiness@gmail.com! I'll try to respond as soon as I can.\
 
